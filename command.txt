@@ -1,0 +1,8 @@
+# useful commands
+
+npm init
+npm install typescript
+npx tsc --init
+npm install express @types/express
+npm run tsc
+node server/index.js
